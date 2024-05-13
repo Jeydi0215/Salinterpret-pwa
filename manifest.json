@@ -7,7 +7,7 @@
     "display": "standalone",
     "orientation": "any",
     "scope": "/",
-    "start_url": "../salinterpret-pwa/imdex.html",
+    "start_url": "/",
     "icons": [
         {
             "src": "icons/icon_192.png",
