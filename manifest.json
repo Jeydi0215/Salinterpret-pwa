@@ -1,0 +1,25 @@
+{
+    "name": "Salinterpret",
+    "short_name": "salinterpret",
+    "description": "Salinterpret is an ASL translation app that can detect hand motions and translate them into the corresponding written or spoken language",
+    "theme_color": "#000000",
+    "background_color": "#f70808",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "icons/icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/maskable_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
